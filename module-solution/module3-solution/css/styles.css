@@ -8,7 +8,7 @@ body {
 #header-nav {
     background-color: #61122f;
     border-radius: 0;
-    border-color: #f6b319;
+    border-color: black;
 }
 
 
@@ -155,7 +155,7 @@ body {
 
 .col-lg-3, .col-md-6, .col-xs-12 {
 	border: 1px solid black;
-	background-color: #738ebf;
+	background-color: #61122f;
 	overflow: hidden;
 	margin: 1.66%;
 }
