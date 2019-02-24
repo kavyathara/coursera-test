@@ -25,24 +25,24 @@ function ShoppingListCheckOffService(){
 	var service=this;
 	var shoppingList2=[
 {
-	name:"Milk",
-	quantity:" 2 bottle "
+	name:"Pizza",
+	quantity:" 1 Large "
 },
 {
-	name:"Banana",
-	quantity:"2 Kg "
+	name:"Ranch",
+	quantity:" 2 "
 },
 {
 	name:"chicken",
-	quantity:" 1 kg"
+	quantity:" Half size "
 },
 {
-	name:"Egg",
-	quantity:" 12 pec "
+	name:"wings",
+	quantity:" 12 piece "
 },
 {
 	name:"Cookies",
-	quantity:" 12 packet "
+	quantity:" 1 packet "
 }
 ];
 var msg="";
